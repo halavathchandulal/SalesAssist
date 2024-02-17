@@ -1,0 +1,21 @@
+.list-items-container {
+  display: flex;
+  flex-direction: column;
+  margin-right: 70px;
+}
+
+.list-item-image {
+  height: 90px;
+  width: 90px;
+}
+
+.list-item-text {
+  font-family: Encode Sans;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0.1em;
+  text-align: center;
+  color: #e5dfd9;
+  padding-top: 10px;
+}

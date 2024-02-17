@@ -1,0 +1,90 @@
+.product-card {
+  width: 280.15px;
+  height: 483.43px;
+  left: 624.3px;
+  border-radius: 8px;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-right: 50px;
+  margin-bottom: 40px;
+  border: 1px solid #e5dfd9;
+}
+
+.product-title {
+  font-family: Encode Sans;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: 0.05em;
+  text-align: left;
+  color: #e5dfd9;
+}
+
+.product-price {
+  font-family: Encode Sans;
+  font-size: 19px;
+  font-weight: 700;
+  line-height: 23px;
+  letter-spacing: 0px;
+  text-align: right;
+  color: #e5dfd9;
+}
+.discount-text {
+  font-family: Encode Sans;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+
+  font-family: Raleway;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #2fc14f;
+}
+.price-text {
+  font-family: Encode Sans;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: right;
+  color: #e5dfd9;
+  text-decoration: line-through;
+}
+
+.rupee-icon {
+  font-family: Font Awesome 5 Pro;
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0px;
+  text-align: right;
+  color: #e5dfd9;
+  margin-right: 2px;
+}
+.price-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.shopping-bag-image {
+  width: 26.08px;
+  height: 40.49px;
+  margin-left: 80px;
+}
+
+.bookmark-image {
+  width: 26px;
+  height: 34px;
+  margin-right: 20px;
+  margin-top: 10px;
+}
